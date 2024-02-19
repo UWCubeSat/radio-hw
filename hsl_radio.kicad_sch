@@ -4304,7 +4304,7 @@
     )
     (pin "1" (uuid 9c6a0e34-1cdc-403a-a593-d9690e568854))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR01") (unit 1)
         )
@@ -4329,7 +4329,7 @@
     )
     (pin "1" (uuid 11787f87-0608-4fbb-ba82-ec5d203102d1))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR03") (unit 1)
         )
@@ -4402,7 +4402,7 @@
     (pin "15" (uuid 7769f5a5-d512-4088-b61d-cef9f3058b58))
     (pin "16" (uuid da1100f6-6da5-46cd-bc5f-824374257cf2))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U2") (unit 1)
         )
@@ -4441,7 +4441,7 @@
     (pin "2" (uuid dcae8bd0-e4c7-45a8-8fe5-383b21095c0f))
     (pin "3" (uuid e289b1e2-cc1c-4208-b7e1-b39ff941b7a7))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U5") (unit 1)
         )
@@ -4479,7 +4479,7 @@
     (pin "1" (uuid 72d6df3a-5b4c-4268-b608-c41c5bed3c6c))
     (pin "2" (uuid 1a96ed41-6f36-4caf-a8fa-c3a6e418ae36))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "J6") (unit 1)
         )
@@ -4504,7 +4504,7 @@
     )
     (pin "1" (uuid 11a532a5-ed30-40c9-a755-2348b83fe55b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR05") (unit 1)
         )
@@ -4542,7 +4542,7 @@
     (pin "1" (uuid 9749c5db-12cf-4bc6-abf5-6e9371cfab99))
     (pin "2" (uuid 529fdac4-767f-4566-8cd4-259fb7af9f41))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C44") (unit 1)
         )
@@ -4567,7 +4567,7 @@
     )
     (pin "1" (uuid c234c8cf-7f9c-4a79-8fff-551132ed778c))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR06") (unit 1)
         )
@@ -4592,7 +4592,7 @@
     )
     (pin "1" (uuid ea2814d5-5c05-48f2-aada-6d7cd9b364bc))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR027") (unit 1)
         )
@@ -4630,7 +4630,7 @@
     (pin "1" (uuid 14e259a3-d105-4c32-82e9-d39d0d6ce6f8))
     (pin "2" (uuid 2b9c2f23-6dcf-484d-a197-b2c02f3b846f))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C22") (unit 1)
         )
@@ -4668,7 +4668,7 @@
     (pin "1" (uuid 0a4c372d-040f-413b-b52f-573f78e86456))
     (pin "2" (uuid 7d9ca6b8-f9c9-4c02-8472-1256debf8fb3))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R18") (unit 1)
         )
@@ -4693,7 +4693,7 @@
     )
     (pin "1" (uuid 96499bab-94b5-42d1-bcdd-9e4e84e20cbc))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR026") (unit 1)
         )
@@ -4731,7 +4731,7 @@
     (pin "1" (uuid 02d15bc8-9445-43e3-84c7-c07a915a0ae4))
     (pin "2" (uuid 01eb61e1-6502-4967-ad87-75412303d8b3))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C19") (unit 1)
         )
@@ -4769,7 +4769,7 @@
     (pin "1" (uuid 49fb92cb-36b9-45a7-9224-7cca0da24605))
     (pin "2" (uuid c1865dd1-567d-4201-8cd5-f5166e95eed0))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R16") (unit 1)
         )
@@ -4794,7 +4794,7 @@
     )
     (pin "1" (uuid 02a6ba45-cf9c-4de8-bd99-4d3465923391))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR025") (unit 1)
         )
@@ -4819,7 +4819,7 @@
     )
     (pin "1" (uuid 8329d280-e510-48a3-a1f6-322063d173f6))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR09") (unit 1)
         )
@@ -4857,7 +4857,7 @@
     (pin "1" (uuid ec41cb23-e45e-4ebd-a30f-91ea373c7f99))
     (pin "2" (uuid d79774a5-6361-4bc9-8fde-5d073e530ceb))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C46") (unit 1)
         )
@@ -4895,7 +4895,7 @@
     (pin "1" (uuid 521c05b1-022e-4ed5-818f-e1842831e6ed))
     (pin "2" (uuid 8822d65b-c2cb-45b7-a36d-40ccd7f74a6a))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R37") (unit 1)
         )
@@ -4933,7 +4933,7 @@
     (pin "1" (uuid 788a5180-1990-4b8f-acbb-23651523d656))
     (pin "2" (uuid 5e092892-9300-416e-8118-7184824b0ca0))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R36") (unit 1)
         )
@@ -4958,7 +4958,7 @@
     )
     (pin "1" (uuid 933e088f-591f-484d-a6f0-09e661adeef8))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR024") (unit 1)
         )
@@ -5000,7 +5000,7 @@
     (pin "5" (uuid 479c69ec-1e53-49b0-83fc-9cc32538d76d))
     (pin "6" (uuid 67162979-ccec-45b2-9839-81afaeee123b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U6") (unit 1)
         )
@@ -5038,7 +5038,7 @@
     (pin "1" (uuid 87ec18cf-0baa-43aa-ad0d-58f0beac74a2))
     (pin "2" (uuid 4e20ce40-ad61-4eb0-8f2e-183a51bf7067))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C26") (unit 1)
         )
@@ -5084,7 +5084,7 @@
     (pin "8" (uuid bed1585f-1dce-4692-b67a-a963dad83573))
     (pin "9" (uuid ec1b47f3-8b47-4673-9986-0cd95b6495b9))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "J2") (unit 1)
         )
@@ -5122,7 +5122,7 @@
     (pin "1" (uuid f58e3b4e-a6b5-4894-ae60-39c9eeb1fbe2))
     (pin "2" (uuid 09ac279d-c987-475e-aab7-fb9b12a5d5db))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R5") (unit 1)
         )
@@ -5160,7 +5160,7 @@
     (pin "1" (uuid 666485ed-9086-46b6-a4f9-fadbfe8148d9))
     (pin "2" (uuid bc1bc1f8-c76c-4a88-a951-1e942b8bb836))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R6") (unit 1)
         )
@@ -5198,7 +5198,7 @@
     (pin "1" (uuid eac1130e-e3ca-4950-b619-b4e36a36b440))
     (pin "2" (uuid 13491261-b96e-4124-b063-d22c7991c904))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R7") (unit 1)
         )
@@ -5236,7 +5236,7 @@
     (pin "1" (uuid 59a2c380-40e1-4ad5-a480-0dd7f469260f))
     (pin "2" (uuid 7bc09947-78e5-4a89-88d5-a32e6623a7c1))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R8") (unit 1)
         )
@@ -5274,7 +5274,7 @@
     (pin "1" (uuid 971ea197-b89e-424d-9bb2-756b82d4ac4b))
     (pin "2" (uuid 600ff6a5-2d18-4bb4-8db3-721e967eda22))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R9") (unit 1)
         )
@@ -5312,7 +5312,7 @@
     (pin "1" (uuid f0079777-8c09-4623-afdb-f9d79d3b944d))
     (pin "2" (uuid 63271d38-fe26-4eaa-ba55-0a9cb419ce90))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R10") (unit 1)
         )
@@ -5350,7 +5350,7 @@
     (pin "1" (uuid ab6d65a7-2714-40cf-a4e2-c613f4bb92eb))
     (pin "2" (uuid 01b35ede-8db1-4a8c-bb06-1645a713970d))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R11") (unit 1)
         )
@@ -5388,7 +5388,7 @@
     (pin "1" (uuid 8668c911-80c2-4d56-951e-35b67ee1b9fa))
     (pin "2" (uuid e5814d2c-353f-4b80-93a7-04abdd38dc99))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R12") (unit 1)
         )
@@ -5413,7 +5413,7 @@
     )
     (pin "1" (uuid 9fa9a062-f5f8-4713-bc40-3023a91af128))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR042") (unit 1)
         )
@@ -5438,7 +5438,7 @@
     )
     (pin "1" (uuid e201efcd-5165-4347-a910-59117f64575b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR028") (unit 1)
         )
@@ -5476,7 +5476,7 @@
     (pin "1" (uuid 4cbda5d7-f796-48be-9550-23b38cc3bc6f))
     (pin "2" (uuid f02a7f30-c31a-4ba4-b44b-5f216dd0d8ff))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C31") (unit 1)
         )
@@ -5501,7 +5501,7 @@
     )
     (pin "1" (uuid a0291f66-a664-4385-80ff-037566b224c8))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR029") (unit 1)
         )
@@ -5539,7 +5539,7 @@
     (pin "1" (uuid d0aa70fc-f74d-4e5a-8f5c-5ab8613aeb25))
     (pin "2" (uuid ba624204-518c-4aaa-b0b0-2e82119ef8d9))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R28") (unit 1)
         )
@@ -5564,7 +5564,7 @@
     )
     (pin "1" (uuid 13abf160-68c8-48c4-aade-01da10b4b1dc))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR030") (unit 1)
         )
@@ -5602,7 +5602,7 @@
     (pin "1" (uuid 136f82d4-1789-46b1-89bf-96349d4913b4))
     (pin "2" (uuid 7039fd7a-e8f4-4451-823a-db8a81b0a97b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R26") (unit 1)
         )
@@ -5640,7 +5640,7 @@
     (pin "1" (uuid 58b6ceed-c16f-4b3d-96f8-6c2a3c1e46ec))
     (pin "2" (uuid 92620bf7-18f8-4946-a15f-089999e3a2cc))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R1") (unit 1)
         )
@@ -5678,7 +5678,7 @@
     (pin "1" (uuid a5b7ab33-8dee-4fd7-8027-bae547d29d8a))
     (pin "2" (uuid 3360e24f-4757-4e93-8a0f-48005130ed25))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R2") (unit 1)
         )
@@ -5703,7 +5703,7 @@
     )
     (pin "1" (uuid 57bf43fb-adc8-408c-9b7a-36ce48e65506))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR031") (unit 1)
         )
@@ -5728,7 +5728,7 @@
     )
     (pin "1" (uuid 389ec3a3-fbb4-47cf-be90-7d774b25b0fa))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR032") (unit 1)
         )
@@ -5753,7 +5753,7 @@
     )
     (pin "1" (uuid 1b870386-3746-4c7c-a707-cbe5de7fce13))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR033") (unit 1)
         )
@@ -5791,7 +5791,7 @@
     (pin "1" (uuid ebab8113-ce34-471e-964b-afdf0a321e13))
     (pin "2" (uuid c0fd7652-875c-4e84-baf7-27fc241fc044))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R17") (unit 1)
         )
@@ -5829,7 +5829,7 @@
     (pin "1" (uuid cf865703-f5f6-42e9-b6a0-a6221785b2bf))
     (pin "2" (uuid 7b4c89fb-0b26-4756-aa6c-7e3d2f85c815))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C27") (unit 1)
         )
@@ -5854,7 +5854,7 @@
     )
     (pin "1" (uuid 42365ea5-c905-4c88-9731-b14a9826f99f))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR036") (unit 1)
         )
@@ -5880,7 +5880,7 @@
     (pin "1" (uuid 9f9f7e5b-0339-4b80-86f4-d98f069ecd10))
     (pin "2" (uuid 4947faa5-7b9d-42ac-b26a-ca75c8ff10c0))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R15") (unit 1)
         )
@@ -5918,7 +5918,7 @@
     (pin "1" (uuid d5ab45b9-b9ab-43ed-a034-2d4628778ed1))
     (pin "2" (uuid d204e8cc-d55a-4463-adb4-26e396532999))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "D1") (unit 1)
         )
@@ -5956,7 +5956,7 @@
     (pin "1" (uuid 79edeb39-3f7c-4d23-a41f-3ab9af2379b7))
     (pin "2" (uuid 047c190d-fdaa-4ca1-bbf8-c7f00e2b589e))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R3") (unit 1)
         )
@@ -5994,7 +5994,7 @@
     (pin "1" (uuid aaedcf27-6e36-480e-a6d5-bea681c37889))
     (pin "2" (uuid 3170adfb-7270-4c51-9d35-a5dda5094e8a))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "D2") (unit 1)
         )
@@ -6019,7 +6019,7 @@
     )
     (pin "1" (uuid cbd1c30e-c0f4-4f94-9fc7-4a89c425e7a7))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR037") (unit 1)
         )
@@ -6057,7 +6057,7 @@
     (pin "1" (uuid ff86f545-8cc5-4c8c-b70b-f3d49d8f4e0e))
     (pin "2" (uuid b6c7985a-1b25-43a4-9dc6-472c8ba1688a))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R4") (unit 1)
         )
@@ -6099,7 +6099,7 @@
     (pin "5" (uuid 26ebbc0e-4f17-4552-b718-aad80ecc6f40))
     (pin "6" (uuid 015f10f4-d2af-4cb9-9e40-885b96982a34))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "J4") (unit 1)
         )
@@ -6124,7 +6124,7 @@
     )
     (pin "1" (uuid ef745a0e-8833-406f-ad30-eec02cd17e36))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR040") (unit 1)
         )
@@ -6149,7 +6149,7 @@
     )
     (pin "1" (uuid 14fbd5ab-24a1-4971-a441-a7bf2720f077))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR041") (unit 1)
         )
@@ -6187,7 +6187,7 @@
     (pin "1" (uuid 6028fd22-74aa-41e3-9b0f-62a658e3c2f9))
     (pin "2" (uuid b774d40a-8ad5-445f-b73e-b10ffec0db6e))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C1") (unit 1)
         )
@@ -6225,7 +6225,7 @@
     (pin "1" (uuid 0c8cf226-8c52-46b9-ab76-48e336b2be74))
     (pin "2" (uuid 18249382-dde4-40df-af09-b4d33d0beac2))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C10") (unit 1)
         )
@@ -6263,7 +6263,7 @@
     (pin "1" (uuid c174ccdf-2c2d-40a6-bb35-83e37d34cdd0))
     (pin "2" (uuid 313f58ca-6059-4d5f-9ee1-0e85232cef83))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C2") (unit 1)
         )
@@ -6301,7 +6301,7 @@
     (pin "1" (uuid cbfd6482-836c-4822-ac79-3e1bd43dfceb))
     (pin "2" (uuid 8301dc8b-8cc0-420c-9ad0-6a680fe7d0fb))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C7") (unit 1)
         )
@@ -6339,7 +6339,7 @@
     (pin "2" (uuid 1d9a1f60-e2ef-4a1f-8982-11d82a7b3014))
     (pin "1" (uuid 24211fe5-aee2-42bc-b89c-d7c22ce3b779))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C5") (unit 1)
         )
@@ -6377,7 +6377,7 @@
     (pin "1" (uuid e8f2b4b3-bee0-4997-8e69-f51d7f0f7616))
     (pin "2" (uuid 445267bb-6556-4af9-b69f-77d6d36dadfc))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C3") (unit 1)
         )
@@ -6402,7 +6402,7 @@
     )
     (pin "1" (uuid 2432a762-638a-40df-b3e3-e85efe3eed4d))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR043") (unit 1)
         )
@@ -6440,7 +6440,7 @@
     (pin "1" (uuid bb2aa018-9150-4f12-ba26-4a260e18b990))
     (pin "2" (uuid 6fbd5e0a-2c7b-437f-a6ca-b8e9d755ce4d))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C9") (unit 1)
         )
@@ -6465,7 +6465,7 @@
     )
     (pin "1" (uuid d40ab8e7-eb6b-4642-bf7c-7fa09c290f33))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR044") (unit 1)
         )
@@ -6503,7 +6503,7 @@
     (pin "1" (uuid c5783a8b-2608-4f89-b2bd-20c7c10138e9))
     (pin "2" (uuid 4418d3bb-f72b-42a6-9e7b-9267d92acd96))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R21") (unit 1)
         )
@@ -6541,7 +6541,7 @@
     (pin "1" (uuid aaa72a7c-c7a9-4693-87dd-51a7397c50a9))
     (pin "2" (uuid 8be79e35-2cda-408d-af38-592ec14a5f51))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R22") (unit 1)
         )
@@ -6566,7 +6566,7 @@
     )
     (pin "1" (uuid 5259959b-02b5-405a-acca-f6ff1d1b31d6))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR045") (unit 1)
         )
@@ -6604,7 +6604,7 @@
     (pin "1" (uuid dfc5fac5-98b1-42fb-9366-bfd9822dd0d8))
     (pin "2" (uuid 1fe5c628-6a31-48d4-a3f0-bbc5a26d2a4d))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R23") (unit 1)
         )
@@ -6642,7 +6642,7 @@
     (pin "1" (uuid 86eb25b6-6a28-4835-a4cb-bcdef70ea58a))
     (pin "2" (uuid 2cde4e12-dccc-4eb3-bf0b-0264b16fe180))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R24") (unit 1)
         )
@@ -6667,7 +6667,7 @@
     )
     (pin "1" (uuid 0841d687-db5d-4028-9794-65ff646b0633))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR047") (unit 1)
         )
@@ -6692,7 +6692,7 @@
     )
     (pin "1" (uuid bacab216-5853-4f73-91ef-d758d58f431f))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR049") (unit 1)
         )
@@ -6717,7 +6717,7 @@
     )
     (pin "1" (uuid 40b6b62b-d245-4780-b9c0-f85bfd22a822))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR050") (unit 1)
         )
@@ -6742,7 +6742,7 @@
     )
     (pin "1" (uuid 1cbf041b-b067-4356-84e2-25205514fdf6))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR051") (unit 1)
         )
@@ -6780,7 +6780,7 @@
     (pin "1" (uuid cbfa8d0c-76f8-4dc8-8135-41bb504ae24a))
     (pin "2" (uuid 6a1b7626-eeda-47f2-8087-37d5e786bb01))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C47") (unit 1)
         )
@@ -6805,7 +6805,7 @@
     )
     (pin "1" (uuid f046e53d-b5f9-44c4-991f-14a20a4e3c43))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR053") (unit 1)
         )
@@ -6832,7 +6832,7 @@
     (pin "2" (uuid f9fd2af7-1495-401d-bb17-bf75abd30ac3))
     (pin "3" (uuid 6aef6bd3-0e38-43ea-81ae-689eec3d14a3))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "J5") (unit 1)
         )
@@ -6857,7 +6857,7 @@
     )
     (pin "1" (uuid 0e5a3547-1e04-4832-b727-02403d0326d2))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR054") (unit 1)
         )
@@ -6895,7 +6895,7 @@
     (pin "1" (uuid c02d6c77-4625-4f46-b799-6a37fcae27bf))
     (pin "2" (uuid cd4eeaea-1361-4baa-b742-90ef65a646f7))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R14") (unit 1)
         )
@@ -6933,7 +6933,7 @@
     (pin "1" (uuid d3a05096-c617-4fb4-8bd4-9491bc6a518c))
     (pin "2" (uuid 0d365461-6f04-4c8f-a288-2fbbf8d2bcf1))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R13") (unit 1)
         )
@@ -6971,7 +6971,7 @@
     (pin "1" (uuid 0942d339-346e-4e25-8841-0bbfaa3dfbaa))
     (pin "2" (uuid e2007242-d400-4c91-b863-07d4cc498559))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "L8") (unit 1)
         )
@@ -7009,7 +7009,7 @@
     (pin "1" (uuid ee9f856e-030f-406d-898e-cc32a179df49))
     (pin "2" (uuid 1780a0df-a0a9-4a4d-b568-b0681bd8152c))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "L3") (unit 1)
         )
@@ -7047,7 +7047,7 @@
     (pin "1" (uuid a8a955dd-eb55-4336-89de-890f7dcedf05))
     (pin "2" (uuid 0a3695b7-0b61-4587-a167-2ebfbb6f15b4))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R27") (unit 1)
         )
@@ -7072,7 +7072,7 @@
     )
     (pin "1" (uuid e0152931-9feb-4141-b66f-d5ac5286aa31))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR055") (unit 1)
         )
@@ -7097,7 +7097,7 @@
     )
     (pin "1" (uuid 085e24de-e90d-46ff-84e7-4579b40eaa4f))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR056") (unit 1)
         )
@@ -7135,7 +7135,7 @@
     (pin "1" (uuid 470c34bb-ff70-4295-958a-a76656f15dcb))
     (pin "2" (uuid 6d5360bd-d620-4b5d-bb9b-2240100a1e70))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C6") (unit 1)
         )
@@ -7173,7 +7173,7 @@
     (pin "1" (uuid d3126ebe-654c-49db-a148-6f14ae0fc463))
     (pin "2" (uuid 9f2b2ed0-315d-42b9-b026-cee995e067e2))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C8") (unit 1)
         )
@@ -7198,7 +7198,7 @@
     )
     (pin "1" (uuid 79ee1658-6b06-4a5b-bf36-40daf2c61b5c))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR062") (unit 1)
         )
@@ -7223,7 +7223,7 @@
     )
     (pin "1" (uuid d063b265-b49d-468f-98ac-e287399d07bb))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR02") (unit 1)
         )
@@ -7248,7 +7248,7 @@
     )
     (pin "1" (uuid b6321321-68fd-4d7c-ab42-2e68a69328e3))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR010") (unit 1)
         )
@@ -7273,7 +7273,7 @@
     )
     (pin "1" (uuid 89b11b40-5aff-4bbe-bb69-62dd2aae58ca))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR012") (unit 1)
         )
@@ -7301,7 +7301,7 @@
     (pin "2" (uuid 7e5dfd19-93ac-47b8-bf3c-4366c3b8ca59))
     (pin "1" (uuid 08247de8-4b93-42d3-8f52-89b14a6674eb))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U8") (unit 1)
         )
@@ -7327,7 +7327,7 @@
     (pin "1" (uuid 932d9aa3-83e4-4500-911b-0ce994633e4d))
     (pin "2" (uuid 913ecbd0-eb9b-4003-ae09-3dba3a516685))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C14") (unit 1)
         )
@@ -7352,7 +7352,7 @@
     )
     (pin "1" (uuid f4e6e5ac-1477-431b-9f10-5b33df8668d1))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR011") (unit 1)
         )
@@ -7377,7 +7377,7 @@
     )
     (pin "1" (uuid b37cff46-2942-468b-8c9f-30749a0b07ef))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#FLG05") (unit 1)
         )
@@ -7402,7 +7402,7 @@
     )
     (pin "1" (uuid c016dfd6-91a8-463b-bcbc-4b9022d58f26))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#FLG02") (unit 1)
         )
@@ -7427,7 +7427,7 @@
     )
     (pin "1" (uuid 279cc782-8294-4416-b9d8-82714bcb3c9b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR013") (unit 1)
         )
@@ -7453,7 +7453,7 @@
     (pin "1" (uuid 98ca715d-d782-4c94-96fa-4d4d2e42a97f))
     (pin "2" (uuid 7f29e6df-815f-4879-8187-18a992ec026d))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "L4") (unit 1)
         )
@@ -7478,7 +7478,7 @@
     )
     (pin "1" (uuid 8bb212db-6361-43c8-891e-2bbd88bdc1f9))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#FLG01") (unit 1)
         )
@@ -7503,7 +7503,7 @@
     )
     (pin "1" (uuid 78b82983-dda1-464b-bb64-5c7d34b7c3cf))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR057") (unit 1)
         )
@@ -7529,7 +7529,7 @@
     (pin "1" (uuid 767de3f5-7b9b-4b41-988f-66fac9a47661))
     (pin "2" (uuid 10c69f0b-487d-4290-8ce6-1bf594675445))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R34") (unit 1)
         )
@@ -7554,7 +7554,7 @@
     )
     (pin "1" (uuid 4472d703-04e5-4d96-9e5e-d548672e0067))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#FLG03") (unit 1)
         )
@@ -7579,7 +7579,7 @@
     )
     (pin "1" (uuid f06c5a94-2830-4f9e-9fba-7fd1a37fb075))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR08") (unit 1)
         )
@@ -7604,7 +7604,7 @@
     )
     (pin "1" (uuid be1f61be-82cd-46fc-9cc7-10fc12c2f6e9))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR07") (unit 1)
         )
@@ -7629,7 +7629,7 @@
     )
     (pin "1" (uuid 0a1f79aa-0ffd-48d2-8af8-940aaeed21d1))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR023") (unit 1)
         )
@@ -7718,7 +7718,7 @@
     (pin "45" (uuid 31488759-5b7f-4c3e-9624-4b44b4857940))
     (pin "4" (uuid 1bfc4d93-fd74-4c19-a6e4-54debc7c6b1b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U4") (unit 1)
         )
@@ -7743,7 +7743,7 @@
     )
     (pin "1" (uuid 42fbf417-ef6a-46af-a325-205ffd7ba68f))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR019") (unit 1)
         )
@@ -7768,7 +7768,7 @@
     )
     (pin "1" (uuid 8f08c724-d30b-4456-bbbc-90cfebda8f6b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#FLG04") (unit 1)
         )
@@ -7793,7 +7793,7 @@
     )
     (pin "1" (uuid 5491ea63-3818-4bae-8f66-91a3ab4cf74b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR021") (unit 1)
         )
@@ -7819,7 +7819,7 @@
     (pin "1" (uuid 0d2f0437-0d0b-4bc7-843a-5802a6d0db2f))
     (pin "2" (uuid b4a0e7f7-3404-4302-b3a5-2d59f1a3f874))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "R33") (unit 1)
         )
@@ -7844,7 +7844,7 @@
     )
     (pin "1" (uuid 8ce718cc-ae0e-47e2-a59a-e0c725bb9201))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR018") (unit 1)
         )
@@ -7897,7 +7897,7 @@
     (pin "25" (uuid 467cd6b7-cc85-4af5-8e34-d13a925b5b7d))
     (pin "26" (uuid 4a01fab8-3685-4421-9bf2-1d072d8ca668))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U10") (unit 1)
         )
@@ -7927,7 +7927,7 @@
     (pin "6" (uuid ba37fca9-332f-47a0-8b92-a0fdfb20768e))
     (pin "4" (uuid 03033322-897c-4b1d-8a73-9f01e9a97bb9))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U3") (unit 1)
         )
@@ -7952,7 +7952,7 @@
     )
     (pin "1" (uuid eea0526f-0f45-4032-b75c-ba60d55b71e8))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR016") (unit 1)
         )
@@ -7978,7 +7978,7 @@
     (pin "1" (uuid 7f62dc8e-bb55-4c5f-b436-7b18a2ff551e))
     (pin "2" (uuid a1933e87-9602-433c-8a57-5e368f55eded))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C12") (unit 1)
         )
@@ -8004,7 +8004,7 @@
     (pin "1" (uuid 6fbcc39d-7b42-4b6c-82ae-557aaa9fb867))
     (pin "2" (uuid a07e2a61-69e8-4c31-9020-d715a9ddd757))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C13") (unit 1)
         )
@@ -8034,7 +8034,7 @@
     (pin "6" (uuid 9763ae3b-e531-425c-8210-a9ba0fbc7b3d))
     (pin "5" (uuid dc2be414-92f7-4da9-a02c-7f0837738431))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U7") (unit 1)
         )
@@ -8059,7 +8059,7 @@
     )
     (pin "1" (uuid 4c208e11-e429-4f6f-9e92-8e0ade1702ab))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR020") (unit 1)
         )
@@ -8084,7 +8084,7 @@
     )
     (pin "1" (uuid 7438c71e-61a5-47a9-a79f-0fe383da7574))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR014") (unit 1)
         )
@@ -8101,7 +8101,7 @@
     (property "Value" "AP62300TWU-7" (at 73.66 175.26 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "TSOT26-WU_DIO" (at 57.15 176.53 0)
+    (property "Footprint" "openlst:TSOT26-WU_DIO" (at 57.15 176.53 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "AP62300TWU-7" (at 57.15 175.26 0)
@@ -8114,7 +8114,7 @@
     (pin "5" (uuid cc51d6ed-44c7-40e3-bee3-ae5ac4963df0))
     (pin "1" (uuid aeea00bc-838f-4ab8-b230-4fa576417b97))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "U1") (unit 1)
         )
@@ -8139,7 +8139,7 @@
     )
     (pin "1" (uuid c2726a71-a6b6-4343-850d-4a4b60ec4257))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR022") (unit 1)
         )
@@ -8164,7 +8164,7 @@
     )
     (pin "1" (uuid 23a9d46e-5cb6-4f9d-88cd-50fa1eb22bef))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR017") (unit 1)
         )
@@ -8202,7 +8202,7 @@
     (pin "1" (uuid d58e7342-6f45-4b7d-bb0f-62c5bb723ee3))
     (pin "2" (uuid 41549ab0-a4e6-4d93-95ba-ba8b553b9f6c))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "L2") (unit 1)
         )
@@ -8240,7 +8240,7 @@
     (pin "1" (uuid f4f75e36-b755-4309-ae7d-d7a98db8416e))
     (pin "2" (uuid 2b9fc174-9926-4aab-934c-8db81d768da2))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "L1") (unit 1)
         )
@@ -8266,7 +8266,7 @@
     (pin "1" (uuid 669093e3-7e8b-451d-819d-6bfa161e0ee9))
     (pin "2" (uuid fd54df62-31ad-4f14-95a0-7502ad8c4f7b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C4") (unit 1)
         )
@@ -8291,7 +8291,7 @@
     )
     (pin "1" (uuid ca99892a-d090-407f-af20-bc232e24d3a9))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR015") (unit 1)
         )
@@ -8317,7 +8317,7 @@
     (pin "2" (uuid f9543718-34ba-4df7-bd8f-265c9f48bfd2))
     (pin "1" (uuid a03ffc83-99d6-4b59-8305-8427bf0a110b))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "C11") (unit 1)
         )
@@ -8342,7 +8342,7 @@
     )
     (pin "1" (uuid 95f902c2-4383-4894-b63e-b7a33337edd4))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#FLG06") (unit 1)
         )
@@ -8367,7 +8367,7 @@
     )
     (pin "1" (uuid 9ce73fd4-d935-422a-8204-d86b877cd2ff))
     (instances
-      (project "openlst-hw"
+      (project "hsl_radio"
         (path "/86a61e65-a2e0-4e00-95eb-708a74dcb3d5"
           (reference "#PWR04") (unit 1)
         )
